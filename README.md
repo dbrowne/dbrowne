@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74C00&center=true&vCenter=true&width=435&lines=Senior+Engineer+Focusing+on+Rust+Development;Systems+Developer;Open+Source+Contributor;:()+%7B+:%7C%3A%26+%7D%3B%3A)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74C00&center=true&vCenter=true&width=435&lines=Rust+Engineer;Systems+Developer;Open+Source+Contributor;:()+%7B+:%7C%3A%26+%7D%3B%3A)](https://git.io/typing-svg)
 
   [![Website](https://img.shields.io/badge/Website-dwightjbrowne.com-blue?style=for-the-badge&logo=google-chrome)](https://www.dwightjbrowne.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dwightbrowne/)
